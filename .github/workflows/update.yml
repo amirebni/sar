@@ -10,19 +10,37 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      # 1️⃣ Checkout
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-      - uses: actions/setup-python@v4
+      # 2️⃣ Setup Python
+      - name: Setup Python
+        uses: actions/setup-python@v4
         with:
           python-version: "3.11"
 
-      - run: pip install -r requirements.txt
+      # 3️⃣ Install dependencies
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
 
-      - run: python main.py
+      # 4️⃣ Run script
+      - name: Run script
+        run: python main.py
 
-      - run: |
+      # 5️⃣ Commit & Push changes (Safe Version)
+      - name: Commit changes
+        run: |
           git config --global user.name "bot"
           git config --global user.email "bot@users.noreply.github.com"
-          git add output.txt blacklist.txt run.log || true
-          git commit -m "auto update" || echo "No changes"
-          git push
+
+          git add .
+
+          if ! git diff --cached --quiet; then
+            git commit -m "auto update"
+            git push
+          else
+            echo "No changes to commit"
+          fi
