@@ -1,100 +1,100 @@
-vless://cc6b985d-0362-4129-8763-38564174fb3e@27.50.49.58:443/?type=grpc&encryption=none&serviceName=t.me%2FentryNET&security=tls&sni=🔒 [By EbraSha]&alpn=http%2F1.1%2Ch2&fp=chrome #Amir
-vless://401374e6-df77-41fb-f638-dad8184f175b@154.92.9.26:443/?type=grpc&encryption=none&security=tls&sni=🔒 [By EbraSha]&alpn=h2 #Amir
-vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@104.21.32.1:443/?type=grpc&encryption=none&security=tls&sni=%20%20 #Amir
+vless://b527363c-efb8-4a3f-9209-cdeb18349afd@132.226.147.10:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=musicstatus.tv.apple.com&fp=chrome&security=reality&pbk=OEZ3C-1OCSYBikqcWudtPP3PpQq2RAI7rFPxWoTCDSc&sid=bffe9292#Amir
+vless://229e6ed9-4ec3-43ea-94db-05cd79825f1f@140.248.152.85:443/?type=xhttp&encryption=none&security=tls&sni=🔒 [By EbraSha]&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome #Amir
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@167.82.97.49:443?path=%2FGGPPfZ3NKyOoKNiK%3Fed&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=cosmocare.ir&type=ws&sni=cosmocare.ir#Amir
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@140.248.184.224:443/?type=ws&encryption=none&host=aliii.ir&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&alpn=h2%2Chttp%2F1.1&fp=chrome #Amir
 vless://29af39ed-f8c8-49b8-9a5f-ea24fad97a09@151.101.129.203:443?path=/%3Fed%3D1024&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Balpn=h2%2Chttp/1.1&amp%3Bhost=fastopra.com&amp%3Bfp=firefox&amp%3Btype=ws&amp%3Bsni=video.nordkapp-boats.no#Amir
-vless://ad35c88b-8e6c-4dac-d29b-f04b42210d33@151.101.130.228:443/?type=ws&encryption=none&host=fonmelo.com&path=%20&security=tls&sni=%20&alpn=h2%2Chttp%2F1.1&fp=chrome%20 #Amir
-vless://c8ff1adb-a3d7-4727-a987-957a80babfcc@151.101.2.133:443/?type=ws&encryption=none&host=vistapcit.com&path=%20&security=tls&sni=%20&alpn=h2%2Chttp%2F1.1&fp=chrome%20 #Amir
-vless://e9fd407a-a1e1-4a37-e840-01bffa1d0edd@172.67.66.177:2087?encryption=none&security=tls&sni=kh2tiyozkxybazdibomyhih.mahdi383ir.website&fp=firefox&insecure=0&allowInsecure=0&type=ws&host=kh2tiyozkxybazdibomyhih.mahdi383ir.website&path=%2F#Amir
-vless://dd777f39-2996-4269-b88f-0b64436d0274@23.227.60.12:2096?path=/&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Balpn=h2%2Chttp/1.1&amp%3Bhost=capitalnet.jokerv2ray.store&amp%3Bfp=firefox&amp%3Btype=ws&amp%3Bsni=joinchannel.jokerv2ray.store#Amir
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@140.248.184.224:443/?type=ws&encryption=none&host=aliii.ir&path=%2FkptMTT8pTmxLWsoJ%3Fed%3D2560&security=tls&sni=aliii.ir&alpn=h2%2Chttp%2F1.1&fp=chrome#Amir
-trojan://2f201f44-c107-45fb-b898-1c0c28e30edd@92.38.145.145:443?security=tls&sni=sw.g.esmahdi9.org&allowInsecure=1&type=tcp#Amir
-vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@199.232.0.1:443/?type=ws&encryption=none&host=imdiana.net&path=%20&security=tls&sni=%20&fp=randomized%20 #Amir
-vless://15f34214-d8de-41e9-ba72-93daeafc59ef@172.64.155.209:2087/?type=ws&encryption=none&host=subhiddify.mmdv2.host&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&alpn=null #Amir
-vless://fca01448-d84a-436e-9aec-3be1ebdfb350@199.34.228.182:2053?encryption=none&security=tls&sni=🔒 [By EbraSha]&type=ws&host=SB-1U6.PAgEs.dev&path=🔒 [By EbraSha] #Amir
-vless://c7f423b7-ced8-43da-a9ae-e906cb4a222c@104.21.89.221:443/?type=ws&encryption=none&host=kkkkkkkkkkkklo.999824.xyz&path=%2FwU3lZaUTRQTqot0LE&security=tls&sni=KKkkKKKkkkkKLO.999824.xYz&alpn=http%2F1.1&fp=chrome#Amir
-trojan://Aimer@188.164.159.55:2096/?type=tcp&security=tls&sni=🔒 [By EbraSha] #Amir
-vless://88372542-431f-11ed-b878-0242ac120002@172.67.196.0:443?encryption=none&security=tls&sni=%20&type=ws&host=vl1.gheychi.ml&path=%20%20 #Amir
-vless://c73113bf-99d5-4c92-9d3f-853a2d7bd85d@104.25.124.40:8443/?type=ws&encryption=none&host=f.ylks.xyz&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&packetEncoding=xudp #Amir
-trojan://e4cbe8b8-37db-4aaa-8469-b84f34c51ebc@172.67.157.220:443/?type=ws&host=6666yhju.777159.xyz&path=%2FdilyfCPEmLvYr5hYXD&security=tls&sni=6666YHjU.777159.xYz&alpn=http%2F1.1&fp=chrome#Amir
-vless://0836463b-214f-4af6-aa85-85a56a62388e@104.21.32.1:443?encryption=none&amp;security=tls&amp;sni=d2127a49-flat-wood-c4b5.milia-akbarpoor.workers.dev&amp;fp=randomized&amp;type=ws&amp;host=d2127a49-flat-wood-c4b5.milia-akbarpoor.workers.dev&amp;path=%2Fkdbyvl5fp0ydted8%3Fed%3D2560#Amir
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@162.159.36.5:8443?encryption=none&security=tls&sni=ovhwuxian.pai50288.uk&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=ovhwuxian.pai50288.uk&path=%2F57ba2ab1#Amir
-trojan://blue2024@188.114.97.105:443/?type=tcp&security=tls&sni=🔒 [By EbraSha]&allowInsecure=1 #Amir
-trojan://dns68@162.159.152.2:443?security=tls&type=ws&sni=trojan.putata.us.kg&path=/?ed=2560&host=trojan.putata.us.kg#Amir
-vless://0ec1c958-0087-4ca6-b4b2-b846c0f62419@104.26.14.21:443?encryption=none&type=ws&host=afrcloud22.mmv.kr&path=%2F45.32.100.46%3D13802&security=tls&fp=chrome&sni=afrcloud22.mmv.kr#Amir
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@31.12.75.140:2053?encryption=none&security=tls&sni=%20&type=ws&host=juzibaipiao.5112233.xyz&path=%20%20 #Amir
-trojan://humanity@8.6.112.6:443?allowInsecure=1&host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#Amir
-vless://fae287e6-544d-4393-8d6e-89268f56dffd@104.17.14.48:443?path=%2Fvless&security=tls&encryption=none&host=de-v.sshmax.xyz&type=ws&sni=de-v.sshmax.xyz#Amir
-vless://72aeacb0-49a3-41b0-a4f6-380d3be88a5e@151.101.2.133:443?path=%20&security=tls&encryption=none&host=bale.ai&fp=chrome&type=ws&sni=%20%20 #Amir
-vless://8c4604ef-749c-4b56-adf1-7da405002a21@104.20.6.134:2053?encryption=none&security=tls&sni=qyi.fqjd663.ggff.net&fp=firefox&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=qyi.fqjd663.ggff.net&path=%2F#Amir
-vless://0dd1347e-e342-456c-b802-779b859cca42@104.31.16.32:443?path=%2Fmhdshws&amp;security=tls&amp;encryption=none&amp;host=loolu.tech&amp;type=ws&amp;sni=loolu.tech#Amir
-trojan://auto@172.67.174.252:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #Amir
+vless://ad35c88b-8e6c-4dac-d29b-f04b42210d33@151.101.130.228:443/?type=ws&encryption=none&host=fonmelo.com&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&alpn=h2%2Chttp%2F1.1&fp=chrome #Amir
+vless://93e69143-c1db-446f-a07c-c49642924fdc@140.248.170.223:443/?type=ws&encryption=none&host=bia-daily-configs.com&path=%2F%40Daily_Configs%2C%40Daily_Configs%2C%40Daily_Configs&security=tls&sni=bia-daily-configs.com&alpn=h3%2Ch2&fp=random#Amir
+vless://c6a8fa8a-9fa0-4866-a786-5d11199d0c1d@146.75.94.133:443/?type=xhttp&encryption=none&security=tls&sni=🔒 [By EbraSha]&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome #Amir
+vless://67678b11-99e5-445e-88c2-675005feaa49@151.101.2.133:443?security=tls&sni=%20&type=ws&host=Golestanvpn.com&path=%20&fp=firefox&alpn=h2,http/1.1%20 #Amir
+vless://c8ff1adb-a3d7-4727-a987-957a80babfcc@151.101.2.133:443/?type=ws&encryption=none&host=vistapcit.com&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&alpn=h2%2Chttp%2F1.1&fp=chrome #Amir
+vless://a7a9f670-44c0-45a9-8047-69db0203c142@178.130.47.143:443?security=tls&type=tcp&sni=uscdn3.suio.me&fp=chrome#Amir
+trojan://0000000@18.238.109.41:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #Amir
+trojan://0000000@18.238.109.28:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #Amir
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@129.153.127.204:20756?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560#Amir
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@129.153.77.88:35250?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560#Amir
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.148.153.223:36818?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560#Amir
+vless://2ed0e544-d2ea-4c92-b29e-d947cd56bb9e@129.153.90.9:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=🔒 [By EbraSha]&fp=ios #Amir
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@158.101.15.48:443?encryption=none&security=tls&sni=🔒 [By EbraSha]&type=ws&host=dp.ylks.xyz&path=🔒 [By EbraSha] #Amir
 trojan://d6b6ea41-0950-4611-8246-224583e4ed1e@151.101.194.228:443?security=tls&type=ws&sni=🔒 [By EbraSha]&path=🔒 [By EbraSha]&host=uhc6rhiubu.com #Amir
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgImFkZCI6ICIxNzIuNjQuMTQ5LjE4MiIsICJwb3J0IjogIjgwODAiLCAiaWQiOiAibmFzbmV0IiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIi0tLSIsICJob3N0IjogIm5hc25ldC01NzEyOTY0MTAyLnNoYXJnaGRhaWx5LmNvIiwgInBhdGgiOiAiL25hc25ldC9jZG4/ZWQ9MjU2MCIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAidGVzdF9uYW1lIjogIlVTXHU3ZjhlXHU1NmZkOCJ9#Amir
-vless://c5f6bb6f-d451-447b-e9ce-6c3016deba77@151.101.195.8:80?mode=auto&path=%2F%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG%3Fed%3D2056&security=&encryption=none&host=fefwefwfeifnekl.com&type=xhttp#Amir
-vless://db2d45c5-4cb4-4f18-9849-18c1ee0d5be7@151.101.194.219:80/?type=xhttp&encryption=none%20 #Amir
-vmess://ewogICAgImFkZCI6ICIxNzIuNjcuMjM3LjczIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICI0MTdkMjdmYi1jYjkzLTNiZDgtOWJmNy03MWNkOTEzMTk4MjEiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvaGdjZWZvbW4iLAogICAgInBvcnQiOiAyMDk1LAogICAgInBzIjogIvCfj4FSRUxBWS0xNzIuNjcuMjM3LjczLTg0MTAiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==#Amir
-vless://129ec9f4-56a9-497f-91fc-9a062faf5d72@151.101.193.124:80/?type=xhttp&encryption=none%20 #Amir
-vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.72.38:80/?type=ws&encryption=none&host=edge.validbv3528.ir&path=🔒 [By EbraSha] #Amir
-vless://23f340e3-1709-40e2-b4ec-c42cd57a05dd@151.101.3.8:80?type=xhttp&mode=auto&host=joinshhproxybede.com&path=%20%20 #Amir
-vless://f503ceaa-aa74-4468-8359-2788e1b6c915@151.101.2.219:80/?type=ws&encryption=none&host=foffmelo.com #Amir
+vless://fd29defb-7f80-59ba-88d9-2234b20a806e@199.232.8.39:443/?type=ws&encryption=none&host=ELiV2RAY-JOIN.COM&security=tls&sni=%20&fp=edge%20 #Amir
+trojan://f8bb4ae1-2358-4a76-ab75-2a6bc94272d6@151.101.194.228:443/?type=ws&host=hgc6rct87gy.com&security=tls&sni=pscresearch.faculty.ucdavis.edu#Amir
+trojan://d6b6ea41-0950-4611-8246-224583e4ed1e@151.101.66.228:443/?type=ws&host=uhc6rhiubu.com&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #Amir
+vless://25b8f4b0-4f7d-400f-bc4a-f10e5b8796a2@151.101.66.133:443?path=/stream/#Amir
+vless://9ceffc88-0d8e-4734-8c0f-db6ad21f7e59@151.101.194.219:443/?type=ws&encryption=none&host=snapp.com&path=%20&security=tls&sni=%20%20 #Amir
+trojan://29e0206a-2cef-4c8d-aa4b-dd7a43748167@151.101.2.133:443/?type=ws&host=fonmelo.com&security=tls&sni=zmaoz.faculty.ucdavis.edu.#Amir
+vless://2d595682-9541-42e8-a0ae-a5132702f988@199.232.79.55:443?allowInsecure=1&sni=%20&type=ws&host=www.tehargo.io&path=%20&security=tls%20 #Amir
+vmess://eyJ2IjoiMiIsInBzIjoi576O5Zu9LTEuODdNQi9zKFlvdXR1YmU65LiN6Imv5p6XKSIsImFkZCI6IjEzMi4yMjYuMTUyLjIyIiwicG9ydCI6IjgwIiwidHlwZSI6Im5vbmUiLCJpZCI6ImJjZTAzMGJiLWJhMTUtNDZlMy1lYTM1LWI1YjAzNGZlODFmMSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcmF5IiwiaG9zdCI6IjEzMi4yMjYuMTUyLjIyIiwidGxzIjoiIn0=#Amir
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@34.160.118.77:80/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=🔒 [By EbraSha] #Amir
+vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.72.131:80/?type=ws&encryption=none&host=teleirani.ir&path=%20%20 #Amir
 vless://0b55ec95-4f77-4c51-89ea-91d96cd149a8@151.101.3.8:80?type=xhttp&mode=auto&host=joindhhprooxy.com&path=%20%20 #Amir
-vless://2e834c8c-2b4d-4cc5-9725-23ed738b4333@151.101.128.155:80?type=ws&host=lookivpn3.ir&path=/?ed=2048#Amir
-vless://a6cd3631-4457-48da-bace-76c5e0bfa331@151.101.64.155:80/?type=ws&encryption=none&host=Lightning6.ir&path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048#Amir
-vless://2404f667-5969-4883-a71a-ea2e0db2d25b@151.101.130.228:80?type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v18.networkpro.net&path=%20%20 #Amir
-vless://a1fc4e1c-71ec-474f-8f91-2475443aa024@151.101.3.8:80?mode=auto&path=%20&security=&encryption=none&host=fefwefwfeifnekl.com&type=xhttp%20 #Amir
-trojan://humanity@104.18.13.149:443?allowInsecure=1&host=www.ignitelimit.com&path=🔒 [By EbraSha]&sni=🔒 [By EbraSha]&type=ws #Amir
-vless://d57488fc-a7fd-48d5-e3b3-64308afbfc31@151.101.66.219:80/?type=ws&encryption=none&host=XpnTeam.ir&path=%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%3Fed%3D2048#Amir
-vless://78802591-aa5f-47ea-8184-9e30368d9b50@185.146.173.38:2052/?type=ws&encryption=none&host=2.V2ray.debian.org.fxp.debian.org.speedtest.net.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95%E3%82%89%E3%82%8F.onlinesrvpro.site.%20 #Amir
-vless://f515c834-d3f9-4be2-9326-f72a0d3b6c11@102.177.189.251:8080?path=🔒 [By EbraSha]&security=&encryption=none&host=lOgIn.TecHnOvahUb.moM.&type=httpupgrade #Amir
-vmess://ewogICAgImFkZCI6ICIyMDMuMzAuMTkxLjE4IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiY2xhc2g2LnNzci1mcmVlLnh5eiIsCiAgICAiaWQiOiAiNWY2NGZhNjUtN2IxNC00OWM1LTk1NGQtYWExNWM2YmZjYWNkIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2Rvbmd0YWl3YW5nLmNvbSIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4+BUkVMQVktMjAzLjMwLjE5MS4xOC0wNjcyIiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=#Amir
-vless://d6bfe23e-f7a8-4beb-971c-c68ddd8fdd8c@151.101.3.8:80?mode=auto&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&security=&encryption=none&host=Mahsazxshop.org&type=xhttp#Amir
-vless://2aa24fff-1d13-41cd-a724-b8a613c19cd9@151.101.194.219:80?mode=auto&path=%20&security=&encryption=none&host=fefwefwfeifnekl.com&type=xhttp%20 #Amir
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.225:8880/?type=ws&encryption=none&host=us.laoyoutiao.link&path=%20%20 #Amir
-vless://bb7e9f01-db31-4b08-9c5f-3fd0d1f7ed9d@151.101.129.57:80/?type=ws&encryption=none&host=loye.ir&path=🔒 [By EbraSha] #Amir
-vless://Telegram@FNET00@Am20094@151.101.3.8:80?mode=auto&path=/Telegram@FNET00-@Am20094/?ed=2560&security=&encryption=none&host=fnet00.global.ssl.fastly.net&type=xhttp#Amir
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@5.10.214.213:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/?ed=2560#Amir
-vless://bb9fccb8-4d50-43a4-8bf1-359a3775b6f3@151.101.56.105:80/?type=ws&encryption=none&host=edu.tabligh.au&path=%2F%3Fed%3D2048#Amir
-vmess://ewogICAgImFkZCI6ICIxMDQuMTYuODkuNDQiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIxMDQuMTYuODkuNDQiLAogICAgImlkIjogIjlhMThjYmIxLTgxZDItNDcyMC05ZjA5LTQ2ZWEyNzZiNmRkYiIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9odWh1YmxvZyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4+BUkVMQVktMTA0LjE2Ljg5LjQ0LTEwNDIiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==#Amir
-vmess://eyJhZGQiOiI0NS44NS4xMTguNDciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiJhcnNkLmFyc2FsYW52My5zYnMiLCJpZCI6IjcxODA2ZjNkLTQ3MmYtNDQyMi1hMDkzLTdjYzNmNDViZmQzZSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjA4NiIsInBzIjoiQFZNRVNTSVJBTiDYs9ix2YjYsSDbsdu0INin2LPZgdmG2K8iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=#Amir
-vless://d66bb0ee-5f9e-5269-adb8-492d19241ed6@199.232.192.204:80/?type=ws&encryption=none%20 #Amir
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@154.218.15.26:8880/?type=httpupgrade&encryption=none&host=nufillter.jtip.sbs.&path=%2F#Amir
-vless://384193af-acf4-4e3d-a570-5720befa42ee@173.245.59.16:80?security=&type=ws&path=%20&host=Okhvod.KAshTI.WOrLd&encryption=none%20 #Amir
-vless://222b77d7-6480-4d9f-a9cb-ac9f1bc47783@172.66.40.99:80?path=🔒 [By EbraSha]&host=e.zedmodeon.ip-ddns.com&type=ws #Amir
-vless://db51d23e-3cfc-4358-b3e7-0808dd818e60@151.101.65.57:80/?type=ws&encryption=none&host=Www.speedtest.net.sPeedtest2.sbs. #Amir
-vless://f149f3ea-ac0f-4e29-8db2-89d57b4f6eac@151.101.1.124:80?security=&amp;type=ws&amp;path=🔒 [By EbraSha]&amp;host=danuwazero.com&amp;encryption=none #Amir
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@176.124.223.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#Amir
-vless://ed500a32-05ba-4d2f-a1a8-f8d2a50e1ee9@151.101.193.153:80/?type=ws&encryption=none&host=topalangmani.com&path=🔒 [By EbraSha] #Amir
-vmess://ewogICAgImFkZCI6ICIxOTguNDEuMjAzLjUiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogIjQ2MTI2MThjLTI0Y2QtNDM3OS05OTI0LWNmZGYzZDYxZmE1YSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9JWUtMRDUzTSIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4+BUkVMQVktMTk4LjQxLjIwMy41LTA0NTYiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICJvcGZyMS52MnJheWZyZWUxLnh5eiIKfQ==#Amir
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@141.101.113.143:8880/?type=ws&encryption=none&host=yg.bantony199.top&path=🔒 [By EbraSha] #Amir
-vless://2988ad67-1810-4d82-85d0-74d6d4ef1cf8@104.17.221.248:443/?type=ws&encryption=none&host=me.4056860.xyz%20 #Amir
+vless://2404f667-5969-4883-a71a-ea2e0db2d25b@151.101.130.228:80?type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v18.networkpro.net&path=/?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#Amir
+vless://8d9eaf7c-0da5-4414-9911-975add3b9e69@151.101.3.8:80?mode=auto&path=/V3xhttp?ed=2048&security=&encryption=none&extra={"scMaxEachPostBytes":#Amir
+vless://129ec9f4-56a9-497f-91fc-9a062faf5d72@151.101.193.124:80/?type=xhttp&encryption=none%20 #Amir
 vless://7dc61cd6-320e-5d71-8bd3-9720e0b03c4b@151.101.129.6:80/?type=ws&encryption=none&host=PABLOO-MOSTAFA.COM%20 #Amir
-vless://Telegram-VPNCUSTOMIZE-@151.101.1.6:80?path=%20&security=auto&host=JoinBedeeeeee--VPNCUSTOMIZE.ir.&fp=randomized&type=ws&sni=%20%20 #Amir
-vless://b8a0fe1a-fbea-4572-a878-20b7f7c98636@104.16.178.96:80?encryption=none&security=none&type=ws&host=sweet-glade-2430-ppal03.xasev15708.workers.dev&path=🔒 [By EbraSha] #Amir
-vless://14ff1c99-0b15-4d12-8a2e-b71374d38b85@151.101.66.219:80?encryption=none&security=none&type=xhttp&host=jey1.global.ssl.fastly.net&path=/Telegram@vpnjey&mode=auto#Amir
-vless://cab9857c-db59-473b-cd9e-bde03164da62@151.101.3.8:80?path=%20&security=none&encryption=none&host=Gozargah.org&type=ws%20 #Amir
-vless://d021f52c-8e74-43e4-87e1-98a5e4dc2a82@151.101.3.8:80?mode=auto&path=🔒 [By EbraSha]&security=none&encryption=none&host=hopeforall.com.global.prod.fastly.net&type=xhttp #Amir
-vless://6a51aa8b-e8fc-4039-8351-0e3d1c05d5ce@151.101.3.8:80?type=xhttp&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&host=Mahsazxshop.org&mode=auto&security=none#Amir
-vless://275d87d1-221a-4e47-96b1-9a6f76a7daba@151.101.2.133:80?mode=auto&path=/?ed=2048--Telegram@V2ray_Alpha&security=none&encryption=none&host=kavianvpsnour.global.ssl.fastly.net&type=xhttp#Amir
-vless://0c41105e-22b7-48e8-9f7f-81f1cd43c8ac@151.101.3.8:80?mode=auto&path=%20&security=none&encryption=none&host=Mahsazxshop.org&type=xhttp%20 #Amir
-vless://e5af0826-5957-4a53-9d3f-20e6ddc12710@151.101.3.8:80?type=ws&host=befreewithus.net&path=/&security=none#Amir
-vless://3a171b04-6a44-4c8b-8490-a7bffd51a1b9@104.16.11.133:80?encryption=none&host=Vpn_Mikey-speedtest.net.Amir-Mikey.Tech.&path=%20&security=none&type=httpupgrade%20 #Amir
-vless://bcfd81cf-99b7-4863-b0fe-40b031ec590c@151.101.3.8:80?mode=auto&path=%20&security=none=@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub&encryption=none&host=Mahsazxshop.org&type=xhttp%20 #Amir
-vless://15219f08-71de-42e9-92ef-82ddded32704@151.101.3.8:80?mode=auto&security=none&encryption=none&extra={"scMaxEachPost":%20 #Amir
-vless://1574e278-682c-41b2-aa64-11812856c65d@151.101.3.8:80?type=ws&host=befreewithus.net&path=/&security=none#Amir
-vless://215520bc-6898-44bf-8198-02f8ffad6fd7@151.101.3.8:80?mode=auto&path=%20&security=none&encryption=none&host=wreraservis.global.ssl.fastly.net&type=xhttp%20 #Amir
-vless://38177fe4-7c71-4017-f3eb-1ae1d06fba13@151.101.3.8:80?path=%20&security=none&encryption=none&host=Gozargah.org&type=ws%20 #Amir
-vless://04327cef-1084-431a-d595-cfcf9593cbc3@151.101.3.8:80?mode=auto&path=%20&security=none&encryption=none&host=qeshmserverfree.global.ssl.fastly.net&type=xhttp%20 #Amir
-vless://3f168ea9-f0cd-4a59-c5c2-8dd90d77b8ec@151.101.3.8:80?mode=auto&path=%20&security=none&encryption=none&host=Mahsazxshop.org&type=xhttp%20 #Amir
-vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@104.19.209.229:8880?path=🔒 [By EbraSha]&security=none&encryption=none&host=late-tooth.granzinhannah.workers.dev&type=ws #Amir
-vless://708bb7c1-473c-4f06-9f29-69e6ea006f66@104.16.213.98:80?encryption=none&security=none&type=ws&host=withered-rice-1167.vafey30295.workers.dev&path=%20%20 #Amir
-vless://c96e5b87-dedb-48a8-b622-dcbed00316f5@151.101.3.8:80?type=ws&host=befreewithus.net&path=%20&security=none%20 #Amir
-vless://Parsashonam-292@185.146.173.39:8880?path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&security=none&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#Amir
-vless://V2rayNGFreeeV2rayNGFreee@151.101.67.8:80?mode=auto&path=🔒 [By EbraSha]&security=none&encryption=none&host=V2rayNGFreee.global.ssl.fastly.net&type=xhttp #Amir
-vless://8a0d18ab-b2ee-4e4e-b990-05b379b198a6@151.101.67.8:80?type=xhttp&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&host=Mahsazxshop.org&mode=auto&security=none#Amir
-vless://turboo-server@151.101.3.8:80?mode=auto&path=/&security=none&encryption=none&host=turboo-server1.game&type=xhttp#Amir
-vless://dca7418d-6454-48f9-ac6b-9e586ca40a1c@151.101.194.228:80?security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v01.TzZLiMitTNeWz.NeT #Amir
-vless://5f935144-b86d-4021-b6ac-4302e424ba02@151.101.3.8:80?type=ws&host=befreewithus.net&path=🔒 [By EbraSha]&security=none #Amir
-vless://3e7912e9-1310-4c2b-80e8-21201f623cc9@172.67.73.216:80?encryption=none&security=none&type=ws&host=www.speedtest.net.tax.gov.ir.aparat.com.a.2.jEy.dPdNs.org.&path=/Telegram@vpnjeyTelegram@vpnjeyTelegram@vpnjey#Amir
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.0.0:80?path=%20&security=none&encryption=none&host=fraud.chase&type=ws%20 #Amir
+vless://db51d23e-3cfc-4358-b3e7-0808dd818e60@151.101.65.57:80/?type=ws&encryption=none&host=Www.speedtest.net.sPeedtest2.sbs.%20 #Amir
+vless://66000707-1428-4463-a156-667dbf46d5cf@151.101.194.165:80/?type=ws&encryption=none&host=JoinBede--VPNCUSTOMIZE--VPNCUSTOMIZE.ir #Amir
+vless://eff42e7b-e696-4295-ff90-bac216380e75@151.101.130.219:80/?type=ws&encryption=none&host=retete3.ir #Amir
+vless://7dc61cd6-320e-5d71-8bd3-9720e0b03c4b@151.101.1.6:80/?type=ws&encryption=none&host=PABLOO-MOSTAFA.COM #Amir
+vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.102.107:80/?type=ws&encryption=none&host=edge.validbv3528.ir&path=🔒 [By EbraSha] #Amir
+vless://09060576-b150-4d5e-9b89-59c0399fbb54@151.101.0.155:80/?type=ws&encryption=none&host=Xk.monospanck.ir&path=%2Fspdnet%3Fed%3D1024#Amir
+vless://2a5db195-0d58-40a5-a4c2-432711b01057@151.101.2.133:80/?type=ws&encryption=none&host=ks.com&path=%20%20 #Amir
+vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.72.38:80/?type=ws&encryption=none&host=edge.validbv3528.ir&path=%2F#Amir
+vless://957d0930-8730-4923-b58c-6c0d640418bd@151.101.0.10:80?mode=auto&path=%20&security=none&encryption=none&extra={"scMaxEachPost":%20"1000000",%20"scMaxConcurrentPosts":%20100,%20"scMinPostsIntervalMs":%2030,%20"xPadding":%20"100-1000",%20"noGRPCHeader":%20false}&host=goraz.global.ssl.fastly.net&type=xhttp%20 #Amir
+vless://271d139e-b41b-5338-b306-32f66450140b@151.101.193.6:80/?type=ws&encryption=none&host=PABLOO-MOSTAFA.COM #Amir
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@167.82.97.248:443/?type=ws&encryption=none&host=backtory.com&path=%20%20 #Amir
+vless://a2514b27-7d60-44b3-b440-e8a9579510fa@151.101.128.223:80/?type=ws&encryption=none&flow=&host=JOIN.unlimiteddev.4.4.4.4.wWw.CloudFlare.cOm.wWw.SpeedTeSt.cOm.Home.iRan.0.0.0.0.Hide.my.IP.xXx.333.22.1.CDN.Free.unlimiteddev.DDNS1-IP.nEt&path=🔒 [By EbraSha] #Amir
+vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.102.100:80/?type=ws&encryption=none&host=edge.validbv3528.ir&path=%2Fvless-wsfp%3Dchrome#Amir
+vless://d57488fc-a7fd-48d5-e3b3-64308afbfc31@151.101.66.219:80/?type=ws&encryption=none&host=XpnTeam.ir&path=%20%20 #Amir
+vless://52c2302f-8790-4d55-9cfc-f1b9664ddc59@151.101.3.8:80?mode=auto&path=🔒 [By EbraSha]&security=&encryption=none=@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub&host=Webio.io&type=xhttp #Amir
+vless://Telegram-VPNCUSTOMIZE-@151.101.1.6:80?path=%2F%40VPNCUSTOMIZE-----%40VPNCUSTOMIZE-----%40VPNCUSTOMIZE---%40VPNCUSTOMIZE---%40VPNCUSTOMIZE---%40VPNCUSTOMIZE---%40VPNCUSTOMIZE%3Fed%3D2560&security=auto&host=JoinBedeeeeee--VPNCUSTOMIZE.ir.&fp=randomized&type=ws&sni=hajlab.ucdavis.edu#Amir
+vless://0fa9cf4a-7061-5239-9da9-f89a88b56390@140.248.139.207:80/?type=ws&encryption=none&host=ELiV2--ELENA.COM&path=%2Ffp%3Dchrome#Amir
+vless://36f64be7-6531-4895-81e1-20e678c155e6@151.101.3.8:80/?type=ws&encryption=none&host=www.speedtest.net.50.isvpython.onlinE.%20 #Amir
+vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.101.10:80/?type=ws&encryption=none&host=edge.validbv3528.ir&path=%20%20 #Amir
+vless://db2d45c5-4cb4-4f18-9849-18c1ee0d5be7@151.101.194.219:80/?type=xhttp&encryption=none%20 #Amir
+vless://c396c24a-c486-4166-bed6-d3f125bebcbf@151.101.3.8:80?mode=auto&path=%20&security=&encryption=none=@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub&host=WEBIO.IO&type=xhttp%20 #Amir
+vless://5f301020-9b83-493f-94a9-75fb761ef0d3@151.101.130.228:80/?type=ws&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v25.drlimit.net&path=%20%20 #Amir
+vmess://ewogICAgImFkZCI6ICI2Ny4yMS43NS40MCIsCiAgICAiYWlkIjogNjQsCiAgICAiaG9zdCI6ICJ3d3cuMzg1MzAyMjkueHl6IiwKICAgICJpZCI6ICJiMTJjNGY4ZC0xYWFhLTQzMzMtOThlNi1lYzkzOTI5MmM1ODAiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogNDU1NTUsCiAgICAicHMiOiAi8J+HuvCfh7hVUy02Ny4yMS43NS40MC03MzEyIiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=#Amir
+vless://bb9fccb8-4d50-43a4-8bf1-359a3775b6f3@151.101.56.105:80/?type=ws&encryption=none&host=edu.tabligh.au&path=🔒 [By EbraSha] #Amir
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.197.231:80/?type=ws&encryption=none&host=aliii.ir&path=%2FkptMTT8pTmxLWsoJ%3Fed%3D2560#Amir
+vless://a96e0b3e-bd29-4f71-b7f9-f8031bc05f76@151.101.2.16:80/?type=ws&encryption=none&host=WHALEV2R.IR&path=🔒 [By EbraSha] #Amir
+vless://58abe093-fc17-4060-b6c5-a19cbe4ae7ba@151.101.66.219:80?encryption=none&security=none&type=xhttp&host=jey1.global.ssl.fastly.net&path=/Telegram@vpnjey&mode=auto#Amir
+vless://505997ba-cbdb-466e-a3ad-69c6a4553b38@151.101.25.242:80?path=/containers/fi&security=none&encryption=none&host=pizzabama.global.ssl.fastly.net&type=ws#Amir
+vless://3f168ea9-f0cd-4a59-c5c2-8dd90d77b8ec@151.101.3.8:80?mode=auto&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam?ed=2048&security=none&encryption=none&host=Mahsazxshop.org&type=xhttp#Amir
+vless://79a856c5-6cf2-4f6f-b652-bc576dc0541f@151.101.2.216:80?path=%20&security=none&encryption=none&host=GozargahVPN.ir&type=ws%20 #Amir
+vless://3b92398b-a7a1-4b3f-b64b-96100db74037@151.101.3.8:80?path=🔒 [By EbraSha]&amp;security=none&amp;encryption=none&amp;host=befreewithus.net&amp;type=ws #Amir
+vless://02d87d00-c769-48d8-91cb-bd05e2f62790@151.101.25.242:80?mode=auto&amp;path=🔒 [By EbraSha]&amp;security=none&amp;encryption=none&amp;host=jetfr228.global.ssl.fastly.net&amp;type=xhttp #Amir
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.3.10:80?path=🔒 [By EbraSha]&security=none&encryption=none&host=uni.fi&type=ws #Amir
+vless://acf4558d-eb3d-424b-d6e7-7f4191a2eddb@151.101.67.8:80?type=xhttp&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&host=Mahsazxshop.org&mode=auto&security=none#Amir
+vless://c4addcf8-bb9e-4869-9d55-dc96a157b250@151.101.3.8:80?path=%20&security=none&encryption=none&host=befreewithus.net&type=ws%20 #Amir
+vless://58abe093-fc17-4060-b6c5-a19cbe4ae7ba@151.101.3.8:80?encryption=none&security=none&type=xhttp&host=downloadly.ir&path=/Telegram@vpnjey&mode=auto#Amir
+vless://1574e278-682c-41b2-aa64-11812856c65d@151.101.3.8:80?type=ws&host=befreewithus.net&path=🔒 [By EbraSha]&security=none #Amir
+vless://4394eb25-5dfc-4bf1-a363-1ae168e200b9@151.101.25.242:80?mode=auto&path=%20&security=none&encryption=none&host=jetde157.global.ssl.fastly.net&type=xhttp%20 #Amir
+vless://724383d8-33c6-4e8d-9db4-0184a89efa33@151.101.3.8:80?encryption=none&security=none&type=xhttp&host=fastnexo.global.ssl.fastly.net&path=%20&mode=auto%20 #Amir
+vless://6bb5f6b6-c886-4c9e-ad98-ab6674d211b1@151.101.3.8:80?mode=auto&path=🔒 [By EbraSha]&security=none&encryption=none&host=v2rayfree1vpntelegram.global.ssl.fastly.net&type=xhttp #Amir
 vless://ad5e7710-15f4-4cb8-c3bd-302bb5540263@151.101.67.8:80?type=xhttp&path=%20&host=Mahsazxshop.org&mode=auto&security=none%20 #Amir
-vless://255b378e-cf94-4b7e-816b-d8d882583214@151.101.3.8:80?type=xhttp&host=kiosyour-name.global.ssl.fastly.net&path=/=BeFreeWithUs?ed=2048&mode=auto&security=none#Amir
+vless://124b3799-aa8e-4d7a-ad7e-a474ecf4b159@151.101.67.8:80?type=xhttp&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&host=Mahsazxshop.org&mode=auto&security=none#Amir
+vless://d47af421-30d5-49a3-af17-629cdc61e72e@151.101.3.8:80?mode=auto&security=none&encryption=none&extra={"scMaxEachPost":%20 #Amir
+vless://c71b2a75-cb1d-452f-b85b-8918c76d5f6a@151.101.192.223:80?mode=auto&path=%2FTignaliSWithYou&security=none&encryption=none&type=xhttp#Amir
+vless://9dd8841f-ca19-47f4-a06b-dc2e9316f9c5@151.101.3.8:80?mode=auto&path=/V3xhttp?ed=2048&security=none&encryption=none&extra={"scMaxEachPostBytes":#Amir
+vless://5a507104-1cb4-4cd3-ab7e-3b10d400016e@151.101.0.155:80?mode=auto&path=🔒 [By EbraSha]&security=none&encryption=none&host=zedmodeon1.global.ssl.fastly.net&type=xhttp #Amir
+vless://4e0b9bb7-1df7-40c0-af4a-fccb0ef17249@151.101.0.155:80?mode=packet-up&path=%20&security=none&encryption=none&host=bama.ir&type=xhttp%20 #Amir
+vless://V2rayNGFreeeV2rayNGFreee@151.101.67.8:80?mode=auto&path=/&security=none&encryption=none&host=V2rayNGFreee.global.ssl.fastly.net&type=xhttp#Amir
+vless://6fe32852-5f46-4090-8306-f5b419d6a469@140.248.159.164:80?path=%2Fcontainers%2Ffi&security=none&encryption=none&host=kiram-to-harki-filter-kone.global.ssl.fastly.net&type=ws#Amir
+vless://9c488e6e-932c-44cb-b488-0b27f591b034@151.101.64.155:80?security=none&encryption=none&headerType=none&type=tcp#Amir
+vless://424c2031-1add-4063-8fc0-d57dc8358b21@151.101.0.155:80?path=%20&security=none&encryption=none&host=Yghbshup.com&type=ws%20 #Amir
+vless://275d87d1-221a-4e47-96b1-9a6f76a7daba@151.101.2.133:80?mode=auto&path=%20&security=none&encryption=none&host=kavianvpsnour.global.ssl.fastly.net&type=xhttp%20 #Amir
+vless://2ed83fb1-6873-439f-abf8-a58015358802@151.101.65.57:80?mode=auto&path=%2FTignaliSWithYou&security=none&encryption=none&host=tignaltofan.global.ssl.fastly.net&type=xhttp#Amir
+vless://c85a75ad-a478-4fd2-86eb-efcfc3157088@151.101.3.8:80?type=ws&host=befreewithus.net&path=/&security=none#Amir
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@151.101.2.165:80?security=none&type=ws&host=amir55.ir&path=%20%20 #Amir
+vless://8088c605-e0c2-4774-9ee4-7fa7e47b6112@151.101.67.8:80?mode=auto&path=%20&security=none&encryption=none&host=Ryanjames.global.ssl.fastly.net&type=xhttp%20 #Amir
+vless://0134428a-02d8-4f94-8221-a1e858552212@151.101.3.8:80?type=xhttp&path=🔒 [By EbraSha]&host=Mahsazxshop.org&mode=auto&security=none #Amir
+vless://40ea915d-c8e7-49a3-8f2f-a319cc3d08f8@151.101.3.8:80?type=xhttp&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&host=Mahsazxshop.org&mode=auto&security=none#Amir
+vless://505997ba-cbdb-466e-a3ad-69c6a4553b38@140.248.159.164:80?path=🔒 [By EbraSha]&security=none&encryption=none&host=ahlekarbala.global.ssl.fastly.net&type=ws #Amir
+vless://0862aacf-9eb1-46ef-9743-df83346e1a08@151.101.130.228:80?security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v05.feadlenetwork19922h.net&encryption=none&type=ws&sni=🔒 [By EbraSha]&headerType=none #Amir
+vless://fbbd87c3-170b-4249-8139-aa6b23ad5133@151.101.25.242:80?mode=auto&amp;path=🔒 [By EbraSha]&amp;security=none&amp;encryption=none&amp;host=maxde22.global.ssl.fastly.net&amp;type=xhttp #Amir
+trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.197.231:80?security=none&type=ws&path=🔒 [By EbraSha]&host=aliii.ir #Amir
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.0.0:80?path=%20&security=none&encryption=none&host=fraud.chase&type=ws%20 #Amir
+vless://34858db0-821f-4a01-bfc4-5533ab078590@151.101.3.8:80?type=ws&host=befreewithus.net&path=%20&security=none%20 #Amir
+vless://1728ca7e-9267-4c44-adfc-23939aefa964@151.101.67.8:80?type=xhttp&path=🔒 [By EbraSha]&host=Mahsazxshop.org&mode=auto&security=none #Amir
+vless://5b4f0a41-19c9-4816-9104-45d97404a30b@151.101.3.8:80?type=ws&host=befreewithus.com&path=/&security=none#Amir
